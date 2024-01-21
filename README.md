@@ -7,7 +7,8 @@ Welcome to my GitHub profile! Feel free to explore my projects and don't hesitat
 Developer - Bad at AWS - I can Sometimes make stuff work.
 
 - 🌐 **Website:** [christianarbogast.com](https://christianarbogast.com)
-
+- 💻 **Coding Skills:** Python (Fluent in Discord.py), HTML (Learning), CSS (Learning), JavaScript (Learning)
+  
 ## Projects
 
 Here are some of my notable projects:
