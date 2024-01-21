@@ -34,5 +34,5 @@ My only official contacts methods are below:
 
 
 <a href="https://github.com/chrisarbogast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tdvne&show_icons=true&hide=contribs,prs&cache_seconds=10&theme=midnight-purple" alt="Christians's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisarbogast&show_icons=true&hide=contribs,prs&cache_seconds=10&theme=midnight-purple" alt="Christians's Github Stats" />
 </a>
