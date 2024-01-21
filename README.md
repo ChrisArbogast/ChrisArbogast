@@ -31,3 +31,8 @@ Feel free to check out my [GitHub Repositories](https://github.com/chrisarbogast
 ## Other:
 My only official contacts methods are below:
 [Email](mailto:contact@christianarbogast.com)
+
+
+<a href="https://github.com/chrisarbogast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tdvne&show_icons=true&hide=contribs,prs&cache_seconds=10&theme=midnight-purple" alt="Christians's Github Stats" />
+</a>
