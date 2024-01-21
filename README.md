@@ -13,7 +13,8 @@ Developer - Bad at AWS - I can Sometimes make stuff work.
 Here are some of my notable projects:
 
 - [PokeGo Info](https://pokego.info): A site meant to provide info for Pokemon characters in Pokemon Go. Intent was to monetize it via Amazon Affilliate. This was never completed, and is still hosted. 
-
+- [Hypixel Stats](hypixelstats.xyz): A site meant to provide info on a Minecraft account on hypixel. Stats for skyblock, bedwars, and other popular modes. This is not meant to be for profit in any way.
+  
 Feel free to check out my [GitHub Repositories](https://github.com/chrisarbogast) for more!
 
 ## For Hire
