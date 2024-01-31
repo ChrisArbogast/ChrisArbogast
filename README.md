@@ -16,7 +16,7 @@
 ## Other:
 My only official contacts methods are below:
 [Email](mailto:contact@christianarbogast.com)
-[Discord](discord://-/users/1202365847914688512)
+[Discord](https://discord.com/users/1202365847914688512)
 
 
 <a href="https://github.com/chrisarbogast">
