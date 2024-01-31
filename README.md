@@ -15,7 +15,9 @@
 
 ## Other:
 My only official contacts methods are below:
+
 [Email](mailto:contact@christianarbogast.com)
+
 [Discord](https://discord.com/users/1202365847914688512)
 
 
