@@ -6,8 +6,8 @@
   
 ## Projects
 
-- [PokeGo Info](https://pokego.info)
-- [Hypixel Stats](https://hypixelstats.xyz)
+- [Placeholder/Incomplete]()
+- [Hypixel Bedwars Stats](https://hypixelstats.xyz)
 
 ## Contact
 
