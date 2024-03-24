@@ -2,12 +2,14 @@
 ## About Me
 
 - 🌐 **Website:** [christianarbogast.com](https://christianarbogast.com)
-- 💻 **Coding Skills:** Borderline Nonexistent
+- 💻 **Coding Skills:** Javascript, Python, HTML. More experienced in [Discord.PY](https://discordpy.readthedocs.io/en/stable/) and [Mineflayer](https://github.com/PrismarineJS/mineflayer)
   
 ## Projects
 
-- [Placeholder/Incomplete]()
-- [Hypixel Bedwars Stats](https://hypixelstats.xyz)
+- [AnarchyBot](@anarchybot)
+    A [Mineflayer](https://github.com/PrismarineJS/mineflayer) based bot, intended for anarchy servers such as [2B2T](2b2t.org) and [EC.ME](Endcrystal.me). Work in progress.
+- [PokeGoInfo](@pokegoinfo)
+    A simple website project, reliant on the [PokeGoAPI](https://pogoapi.net/documentation/). Meant to give information on Pokemon GO, such as if a Pokemon nests or raids.
 
 ## Contact
 
